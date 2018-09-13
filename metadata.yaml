@@ -1,0 +1,34 @@
+_repo: The-Spicy-Sound-of-Success_51351
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Space ships -- Fiction'
+- GITenberg
+title: The Spicy Sound of Success
+url: http://www.gutenberg.org/ebooks/51351
